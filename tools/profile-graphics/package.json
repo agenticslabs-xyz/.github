@@ -1,0 +1,16 @@
+{
+  "name": "profile-graphics",
+  "private": true,
+  "type": "module",
+  "description": "Builds the light and dark graphics for the organisation profile README.",
+  "scripts": {
+    "build": "node build.mjs ../../profile/assets preview \"<path to og-image.png>\""
+  },
+  "dependencies": {
+    "@fontsource/jetbrains-mono": "^5.1.1",
+    "@fontsource/space-grotesk": "^5.1.0",
+    "@resvg/resvg-js": "^2.6.2",
+    "opentype.js": "^1.3.4",
+    "pngjs": "^7.0.0"
+  }
+}

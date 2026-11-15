@@ -1,34 +1,31 @@
+<a href="https://agenticslabs.xyz">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+    <img alt="Agentics Labs. Intelligence that acts." src="assets/banner-light.png" width="100%">
+  </picture>
+</a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/statement-dark.svg">
+  <img alt="Research into agentic intelligence. We build agents that reason, decide and act on their own, and that keep learning after they launch." src="assets/statement-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/research-dark.svg">
+  <img alt="Research. 01 Infinite learning, agents that keep learning after they launch and get better the longer they run. 02 Agentic intelligence, agents that reason, decide and act on their own, instead of waiting to be asked. 03 Agent security, keeping autonomous agents safe to deploy, and defending systems when agents are turned against them." src="assets/research-light.svg" width="100%">
+</picture>
+
+<a href="https://usequantx.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/project-quantx-dark.svg">
+    <img alt="Projects. 01 QuantX, the first self-learning agent built for investing. It reasons about markets, acts on its own and improves the more it trades. Enter QuantX at usequantx.com." src="assets/project-quantx-light.svg" width="100%">
+  </picture>
+</a>
+
 <p align="center">
-  <a href="https://agenticslabs.xyz"><img src="banner.png" alt="Agentics Labs. Intelligence that acts." width="100%"></a>
+  <a href="https://agenticslabs.xyz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-website-dark.svg"><img alt="agenticslabs.xyz" src="assets/link-website-light.svg" height="40"></picture></a>
+  &nbsp;
+  <a href="https://usequantx.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-quantx-dark.svg"><img alt="QuantX" src="assets/link-quantx-light.svg" height="40"></picture></a>
+  &nbsp;
+  <a href="https://x.com/QuantX_OS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-x-dark.svg"><img alt="QuantX on X" src="assets/link-x-light.svg" height="40"></picture></a>
 </p>
-
-Agentics Labs researches agentic intelligence. We build agents that reason, decide and act on their own,
-and that keep learning after they launch.
-
-## Projects
-
-| Project | What it is |
-|---|---|
-| [QuantX](https://usequantx.com) | The first self-learning agent built for investing. |
-
-<!--
-To list Kagami at launch, add this row to the table above once kagami.agenticslabs.xyz is live.
-| [Kagami](https://kagami.agenticslabs.xyz) | Open-source, deception-based defence against AI-driven attacks. Source on [GitHub](https://github.com/agenticslabs-xyz/kagami). |
--->
-
-## Research areas
-
-- Agents that keep learning after they launch and improve the longer they run
-- Agents that reason, decide and act without waiting to be asked
-- Safety and security of autonomous agents, including defending systems against AI-driven attacks
-
-## How we work
-
-- Research we publish comes with its method and raw data, so others can check it.
-- Security issues in our public repositories are reported privately, as described in each repository's security policy.
-
-## Links
-
-- Website at [agenticslabs.xyz](https://agenticslabs.xyz)
-- QuantX at [usequantx.com](https://usequantx.com)
-- [QuantX on X](https://x.com/QuantX_OS)
