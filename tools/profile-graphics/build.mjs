@@ -197,7 +197,6 @@ function pill(name, label, filled) {
 }
 pill('link-website', 'AGENTICSLABS.XYZ', true);
 pill('link-quantx', 'QUANTX', false);
-pill('link-x', 'X', false);
 
 // ---------- banner, light and dark ----------
 const src = PNG.sync.read(fs.readFileSync(BANNER_SRC));

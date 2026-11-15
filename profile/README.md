@@ -22,10 +22,11 @@
   </picture>
 </a>
 
+<br>
+<br>
+
 <p align="center">
   <a href="https://agenticslabs.xyz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-website-dark.svg"><img alt="agenticslabs.xyz" src="assets/link-website-light.svg" height="40"></picture></a>
   &nbsp;
   <a href="https://usequantx.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-quantx-dark.svg"><img alt="QuantX" src="assets/link-quantx-light.svg" height="40"></picture></a>
-  &nbsp;
-  <a href="https://x.com/QuantX_OS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-x-dark.svg"><img alt="QuantX on X" src="assets/link-x-light.svg" height="40"></picture></a>
 </p>
